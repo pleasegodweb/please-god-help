@@ -1,0 +1,24 @@
+# Site settings
+title: Christopher F. Viceconte
+email: c@pleasegod.help
+url: https://pleasegod.help
+description: "Novelist | Literati | Illuminati"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#cccccc'
+
+# Footer settings
+footer: Christopher F. Viceconte
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/SBootstrap
+  - title: facebook
+    url:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
