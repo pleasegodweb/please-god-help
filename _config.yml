@@ -1,6 +1,6 @@
 # Site settings
 title: Christopher F. Viceconte
-email: c@pleasegod.help
+email: CFViceconte@gmail.com
 url: https://pleasegod.help
 description: "Novelist | Literati | Illuminati"
 
@@ -15,9 +15,11 @@ footer: Christopher F. Viceconte
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/cfviceconte
   - title: facebook
-    url:
+    url: https://www.facebook.com/CFViceconte/
+  - title: instagram
+    url: https://www.instagram.com/youngveezyofficial/
 
 # Build settings
 markdown: kramdown
